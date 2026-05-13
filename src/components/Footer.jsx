@@ -5,7 +5,7 @@ export default function Footer() {
         🔒 100% client-side. Your files never leave your device.
       </p>
       <p className="mt-1">
-        Built with React · PDF.js · pdf-lib
+        Made by a fellow reader who just wanted comfortable night reading.
       </p>
     </footer>
   );

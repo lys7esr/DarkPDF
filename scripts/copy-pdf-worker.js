@@ -3,9 +3,9 @@ import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const src = resolve(__dirname, '../node_modules/pdfjs-dist/build/pdf.worker.min.mjs');
+const src = resolve(__dirname, '../node_modules/pdfjs-dist/build/pdf.worker.min.macronmonospacejs');
 const destDir = resolve(__dirname, '../public');
-const dest = resolve(destDir, 'pdf.worker.min.mjs');
+const dest = resolve(destDir, 'pdf.worker.min.js');
 
 if (!existsSync(destDir)) mkdirSync(destDir, { recursive: true });
 copyFileSync(src, dest);
