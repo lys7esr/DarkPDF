@@ -11,7 +11,7 @@ export default function Header() {
         </div>
       </div>
       <a
-        href="https://github.com"
+        href="https://github.com/lys7esr/DarkPDF.git"
         target="_blank"
         rel="noreferrer"
         className="hidden sm:inline-flex items-center gap-2 text-sm text-slate-300 hover:text-white transition-colors px-3 py-1.5 rounded-lg border border-white/10 hover:border-white/25"
