@@ -8,6 +8,10 @@ Built for readers, students, and late-night learners.
 
 ![Status](https://img.shields.io/badge/status-vibe--coded-purple)
 
+## 🌐 Live Demo
+
+https://darkpdf-reader.netlify.app/
+
 ## ✨ Features
 
 - 🎨 Smart dark-mode conversion while preserving images and colourful graphics as much as possible.
