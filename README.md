@@ -65,4 +65,4 @@ No tracking.
 
 ## 🤍 Built for late-night readers
 
-Made by someone tired of getting flashbanged by white PDFs while studying.
+Made by someone tired of getting flashbanged by white PDFs while studying? more like binge reading:)
