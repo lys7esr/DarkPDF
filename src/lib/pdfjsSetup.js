@@ -1,6 +1,8 @@
 import * as pdfjsLib from 'pdfjs-dist';
 
-// Worker is copied to /public via postinstall script
-pdfjsLib.GlobalWorkerOptions.workerSrc = '/pdf.worker.min.js';
+pdfjsLib.GlobalWorkerOptions.workerSrc = new URL(
+  'pdfjs-dist/build/pdf.worker.min.mjs',
+  import.meta.url
+).toString();
 
 export { pdfjsLib };
