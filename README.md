@@ -2,7 +2,7 @@
 
 Convert any PDF into a beautiful, eye-friendly dark-mode PDF — entirely in your browser. No login, no upload, no tracking.
 
-A heavily vibe-coded project born from one universal student experience: opening a PDF at night and getting absolutely flashbanged.
+A vibe-coded project that every student experiences: opening a PDF at night and getting absolutely flashbanged. So here it is:)
 
 Built for readers, students, and late-night learners.
 
